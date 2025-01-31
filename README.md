@@ -10,14 +10,16 @@
 
 ### <img  src="https://media.giphy.com/media/eIaM3OINljARvObLW7/giphy.gif" width="60"> A little more about me
 ```python
-def about_maaha:
-  pronouns = "she/her"
-  code = [ "python", "javascript", "html", "css" ]
-  tools = [ "react", "mongodb", "node", "pandas", "numpy", "matplotlib", "sk-learn", "aws cloud" ]
-  interests = [ "crochet", "book clubs", "run clubs" ]
-  goals_2025 = [ "get a job", "learn more about machine learning", "solo travel", "read 30 books", "run a half marathon" ]
+about_maaha = {
+    "pronouns": "she/her",
+    "code": ["python", "javascript", "html", "css"],
+    "tools": ["react", "mongodb", "node", "pandas", "numpy", "matplotlib", "sk-learn", "aws cloud"],
+    "interests": ["crochet", "book clubs", "run clubs"],
+    "goals_2025": ["get a job", "learn more about machine learning", "solo travel", "read 30 books", "run a half marathon"],
+    "challenge": "finish neetcode150 to get better at problem solving"
+}
 
-  challenge = "finish neetcode150 to get better at problem solving"
+print(about_maaha)
 ```
 <!--
 **maahma/maahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

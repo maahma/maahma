@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Maaha!
-
+![Profile views](https://komarev.com/ghpvc/?username=maahma&label=Profile%20views&color=60598F&style=flat)
 - 👩‍💻 Software Engineer with a too many interests
-- 🎓 Studied Computer Science at the <em><a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/computer-science-speech-and-natural-language-processing-msc">University of Sheffield</a></em>
+- 🎓 Studied <a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/computer-science-speech-and-natural-language-processing-msc">Computer Science</a> at the University of Sheffield, UK
 - 🌱 I’m currently learning the Spring Framework and studying for the AWS Developer Associate Exam
 - 🔭 I’m currently working on Leetcode Losers (a personal project for doing leetcode problems with friends)
 

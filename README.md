@@ -6,7 +6,32 @@
 - 🔭 I’m currently working on Leetcode Losers (a personal project for doing leetcode problems with friends)
 
 ## 🚀 Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,js,mongodb,nodejs,react,express,html,css,postman,obsidian,vscode,&theme=light)](https://skillicons.dev)
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<div>  
+       <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light&perline=4" />
+</div>
+ </td><td valign="top" width="25%">
+
+### Backend
+<div>  
+       <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb&theme=light&perline=4" /> 
+</div>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<div>
+       <img src="https://skillicons.dev/icons?i=java,python&theme=light&perline=4" /> 
+</div>
+</td><td valign="top" width="25%">
+  
+### Others
+<div>
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,obsidian&theme=light&perline=4" /> 
+</div>
+</td>
+</tr></table>
 
 ## ⚡ Learning
 [![Learning](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)

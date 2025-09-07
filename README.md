@@ -6,35 +6,50 @@
 - 🔭 I’m currently working on Leetcode Losers (a personal project for doing leetcode problems with friends)
 
 ## 🚀 Current Tech Stack
-<table><tr><td valign="top" width="25%">
+<table><tr>
+  <td valign="top" width="25%">
 
-### Frontend  
-<div>  
-       <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light&perline=4" />
+**Frontend**  
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light&perline=4" />
 </div>
- </td><td valign="top" width="25%">
 
-### Backend
-<div>  
-       <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb&theme=light&perline=4" /> 
-</div>
- </td><td valign="top" width="25%">
-        
-### Languages
+  </td><td valign="top" width="25%">
+
+**Backend**  
 <div>
-       <img src="https://skillicons.dev/icons?i=java,python&theme=light&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb&theme=light&perline=4" />
 </div>
-</td><td valign="top" width="25%">
-  
-### Others
+
+  </td><td valign="top" width="25%">
+
+**Languages**  
 <div>
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,postman,obsidian&theme=light&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=java,python&theme=light&perline=4" />
 </div>
-</td>
+
+  </td><td valign="top" width="25%">
+
+**Others**  
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,anaconda,figma,vscode,postman,obsidian&theme=light&perline=4" />
+</div>
+
+  </td>
 </tr></table>
 
+
 ## ⚡ Learning
-[![Learning](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
+<table><tr>
+  <td valign="top" width="25%">
+
+**Cloud**  
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=light&perline=4" />
+</div>
+
+  </td>
+</tr></table>
 
 ## 🌟 Featured Projects
 ### 🤖 [Furhat Study Buddy](https://github.com/maahma/Furhat-Study-Buddy)
@@ -73,13 +88,24 @@ A collaborative platform where friends can practice and track LeetCode problems 
 ## Connect with me
 <div>
     <a href="https://www.linkedin.com/in/maaha-ahmad/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="60" height="60"/>
+           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a target="_blank" href="mailto:maahaahmad99@gmail.com">
+           <img src="https://img.shields.io/badge/-maahaahmad99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.credly.com/users/maaha-ahmad">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="60" height="60"/>
+           <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"" />
+    </a>  
+    <a href="https://leetcode.com/u/maahma/">
+           <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
     </a>
-    
+    <a href="https://maahma.github.io/maahma-portfolio">
+           <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+       
 </div>
+
+
 
 
 <!--

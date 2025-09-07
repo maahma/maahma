@@ -1,26 +1,62 @@
-<h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNwNTVsOThucjV0dGlyZXUxbm40aTc2b2t6azkydndhYXo3a3Y1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="70">I'm Maaha!</h2>
+## 👋 Hi, I'm Maaha!
 
-- 🎓 Computer Science graduate from the <em><a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/computer-science-speech-and-natural-language-processing-msc">University of Sheffield</a></em>
-- 👀 Looking for entry level roles in Software Engineering, Data Science and Machine Learning
+- 👩‍💻 Software Engineer with a too many interests
+- 🎓 Studied Computer Science at the <em><a href="https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/computer-science-speech-and-natural-language-processing-msc">University of Sheffield</a></em>
+- 🌱 I’m currently learning the Spring Framework and studying for the AWS Developer Associate Exam
+- 🔭 I’m currently working on Leetcode Losers (a personal project for doing leetcode problems with friends)
 
-### <img src="https://media.giphy.com/media/AR4vtOmda0KQafvoJn/giphy.gif?cid=ecf05e47ssk72lrc1m21ng5yszkopzhwuifhpmnw6ct6s1j4&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="60"> Connect with me
+## 🚀 Current Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,js,mongodb,nodejs,react,express,html,css,postman,obsidian,vscode,&theme=light)](https://skillicons.dev)
 
-[![Personal Website: maahaahmad](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://maahma.github.io/maahma-portfolio/)
-[![Linkedin: maahaahmad](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maaha-ahmad/)](https://www.linkedin.com/in/maaha-ahmad/) 
+## ⚡ Learning
+[![Learning](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
 
-### <img  src="https://media.giphy.com/media/eIaM3OINljARvObLW7/giphy.gif" width="60"> A little more about me
-```python
-about_maaha = {
-    "pronouns": "she/her",
-    "code": ["python", "javascript", "html", "css"],
-    "tools": ["react", "mongodb", "node", "pandas", "numpy", "matplotlib", "sk-learn", "aws cloud"],
-    "interests": ["crochet", "book clubs", "run clubs"],
-    "goals_2025": ["get a job", "learn more about machine learning", "solo travel", "read 30 books", "run a half marathon"],
-    "challenge": "finish neetcode150 to get better at problem solving"
-}
+## 🌟 Featured Projects
+### 🤖 [Furhat Study Buddy](https://github.com/maahma/Furhat-Study-Buddy)
+A social robot used as a study companion, combining mood detection and well-being activities to support students during study sessions
 
-print(about_maaha)
-```
+**Current Status:** Complete
+
+<!-- **Core Infrastructure:**
+- MongoDb, Express, React, Node for -->
+  
+### 🤨 [Emotion Detection in Earnings Calls](https://github.com/maahma/Speech_Language_Internship)
+An analysis of how emotional cues in earnings calls shape investors’ perceptions of trust, confidence, and decision-making
+
+**Current Status:** Complete
+
+<!-- **Core Infrastructure:**
+- Python, SBERT, BERTopic, OpenSMILE, Pre-trained classifiers, Matplotlib -->
+
+### 🧩 Leetcode Losers
+A collaborative platform where friends can practice and track LeetCode problems together in an organized and engaging way
+
+**Current Status:** Under Construction
+
+<!-- **Core Infrastructure:**
+- Using Spring, MongoDB, React, AWS,  for -->
+
+<!-- ## 🌍 Open-source Collaboration -->
+
+
+## 📈 Stats
+| GitHub                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![](https://github-readme-stats.vercel.app/api?username=maahma&show_icons=true&theme=transparent&hide_border=true) | ![Maaha's Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/maahma?theme=neutral) |
+
+
+## Connect with me
+<div>
+    <a href="https://www.linkedin.com/in/maaha-ahmad/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="60" height="60"/>
+    </a>
+    <a href="https://www.credly.com/users/maaha-ahmad">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="60" height="60"/>
+    </a>
+    
+</div>
+
+
 <!--
 **maahma/maahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
